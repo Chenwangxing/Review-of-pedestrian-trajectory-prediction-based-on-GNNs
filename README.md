@@ -319,6 +319,9 @@ The Graph Neural Network Model [paper](https://ieeexplore.ieee.org/abstract/docu
 
 3-Lee S, Lee J, Yu Y, et al. MART: MultiscAle Relational Transformer Networks for Multi-agent Trajectory Prediction[J]. arXiv preprint arXiv, 2024. [paper](https://arxiv.org/pdf/2407.21635) [code](https://github.com/gist-ailab/MART)
 
+4-Lin W, Zeng X, Pang C, et al. DyHGDAT: Dynamic Hypergraph Dual Attention Network for multi-agent trajectory prediction[C]//2024 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10609870)
+
+
 
 # 2025 Papers
 ## (1) GCN
