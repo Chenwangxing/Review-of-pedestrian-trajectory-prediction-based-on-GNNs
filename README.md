@@ -320,6 +320,19 @@ The Graph Neural Network Model [paper](https://ieeexplore.ieee.org/abstract/docu
 3-Lee S, Lee J, Yu Y, et al. MART: MultiscAle Relational Transformer Networks for Multi-agent Trajectory Prediction[J]. arXiv preprint arXiv, 2024. [paper](https://arxiv.org/pdf/2407.21635) [code](https://github.com/gist-ailab/MART)
 
 
+# 2025 Papers
+## (1) GCN
+
+## (2) GAT
+
+## (3) STGNN
+
+## (4) HGNN
+1-Zhou X, Chen X, Yang J. Heterogeneous hypergraph transformer network with cross-modal future interaction for multi-agent trajectory prediction[J]. Engineering Applications of Artificial Intelligence, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625001253) [code](https://github.com/zhou00NJUST/HHT-CFI)
+
+2-Lin X, Zhang Y, Wang S, et al. OST-HGCN: Optimized Spatial–Temporal Hypergraph Convolution Network for Trajectory Prediction[J]. IEEE Transactions on Intelligent Transportation Systems, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10857960)
+
+
 # Prediction error of different methods on ETH and UCY datasets.
 
 Green, blue, yellow, and red represent trajectory prediction methods based on GCNs, GATs, STGNNs, and HGNNs, respectively.
