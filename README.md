@@ -321,6 +321,9 @@ The Graph Neural Network Model [paper](https://ieeexplore.ieee.org/abstract/docu
 
 4-Lin W, Zeng X, Pang C, et al. DyHGDAT: Dynamic Hypergraph Dual Attention Network for multi-agent trajectory prediction[C]//2024 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10609870)
 
+5-Zhou J, Jiao J, Li N. ForceGNN: A Force-Based Hypergraph Neural Network for Multi-agent Pedestrian Trajectory Forecasting[C]//International Conference on Pattern Recognition. Cham: Springer Nature Switzerland, 2024: 391-405. [paper](https://link.springer.com/chapter/10.1007/978-3-031-78341-8_25)
+
+6-Chib P S, Nath A, Kabra P, et al. Ms-tip: Imputation aware pedestrian trajectory prediction[C]//International Conference on Machine Learning. PMLR, 2024: 8389-8402. [paper](https://openreview.net/forum?id=s4Hy0L4mml)
 
 
 # 2025 Papers
