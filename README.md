@@ -289,6 +289,7 @@ The Graph Neural Network Model [paper](https://ieeexplore.ieee.org/abstract/docu
 
 5-Chen X, Luo F, Zhao F, et al. Goal-Guided and Interaction-Aware State Refinement Graph Attention Network for Multi-Agent Trajectory Prediction[J]. IEEE Robotics and Automation Letters, 2023, 9(1): 57-64. [paper](https://ieeexplore.ieee.org/abstract/document/10313963)
 
+6-Zhou X, Chen X, Yang J. Edge-Enhanced Heterogeneous Graph Transformer With Priority-Based Feature Aggregation for Multi-Agent Trajectory Prediction[J]. IEEE Transactions on Intelligent Transportation Systems, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10807107)
 
 
 ## (3) STGNN
@@ -332,6 +333,8 @@ The Graph Neural Network Model [paper](https://ieeexplore.ieee.org/abstract/docu
 
 ## (2) GAT
 1-Zhang C, Zhang G, Zheng Z, et al. Group-PTP: A Pedestrian Trajectory Prediction Method Based on Group Features[J]. IEEE Transactions on Multimedia, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10855566)
+
+2-Su Z, Huang G, Zhou Z, et al. Improving generative trajectory prediction via collision-free modeling and goal scene reconstruction[J]. Pattern Recognition Letters, 2025, 188: 117-124. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865524003593)
 
 ## (3) STGNN
 1-Chen W, Sang H, Wang J, et al. IGGCN: Individual-guided graph convolution network for pedestrian trajectory prediction[J]. Digital Signal Processing, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S105120042400486X)
