@@ -344,6 +344,8 @@ The Graph Neural Network Model [paper](https://ieeexplore.ieee.org/abstract/docu
 
 2-Chen W, Sang H, Wang J, et al. DSTIGCN: Deformable Spatial-Temporal Interaction Graph Convolution Network for Pedestrian Trajectory Prediction[J]. IEEE Transactions on Intelligent Transportation Systems, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10843981)
 
+3-Chen Y, Guo J, Wang K, et al. LG-STSGCN: Long-Term Gated Pedestrian Trajectory Prediction Based on Spatial-Temporal Synchronous Graph Convolutional Network[J]. IEEE Sensors Letters, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10897914)
+
 ## (4) HGNN
 1-Zhou X, Chen X, Yang J. Heterogeneous hypergraph transformer network with cross-modal future interaction for multi-agent trajectory prediction[J]. Engineering Applications of Artificial Intelligence, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625001253) [code](https://github.com/zhou00NJUST/HHT-CFI)
 
