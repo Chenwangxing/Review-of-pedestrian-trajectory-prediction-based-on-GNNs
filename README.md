@@ -331,6 +331,9 @@ The Graph Neural Network Model [paper](https://ieeexplore.ieee.org/abstract/docu
 ## (1) GCN
 1-Lin X, Zhang Y, Wang S, et al. Multi-scale wavelet transform enhanced graph neural network for pedestrian trajectory prediction[J]. Physica A: Statistical Mechanics and its Applications, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S037843712400829X)
 
+2-Li R, Qiao T, Katsigiannis S, et al. Unified Spatial-Temporal Edge-Enhanced Graph Networks for Pedestrian Trajectory Prediction[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10876405)
+
+
 ## (2) GAT
 1-Zhang C, Zhang G, Zheng Z, et al. Group-PTP: A Pedestrian Trajectory Prediction Method Based on Group Features[J]. IEEE Transactions on Multimedia, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10855566)
 
