@@ -350,6 +350,8 @@ The Graph Neural Network Model [paper](https://ieeexplore.ieee.org/abstract/docu
 
 3-Chen Y, Guo J, Wang K, et al. LG-STSGCN: Long-Term Gated Pedestrian Trajectory Prediction Based on Spatial-Temporal Synchronous Graph Convolutional Network[J]. IEEE Sensors Letters, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10897914)
 
+4-Zhou D, Gao Y, Li H, et al. Group commonality graph: Multimodal pedestrian trajectory prediction via deep group features[J]. Pattern Recognition Letters, 2025. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865525001114)
+
 
 
 
