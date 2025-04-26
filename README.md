@@ -354,6 +354,7 @@ The Graph Neural Network Model [paper](https://ieeexplore.ieee.org/abstract/docu
 
 5-Li R, Katsigiannis S, Kim T K, et al. BP-SGCN: Behavioral Pseudo-Label Informed Sparse Graph Convolution Network for Pedestrian and Heterogeneous Trajectory Prediction[J]. IEEE Transactions on Neural Networks and Learning Systems, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10937142) [code](https://github.com/Carrotsniper/BP-SGCN)
 
+6-Chen W, Sang H, Zhao Z. PCHGCN: Physically Constrained Higher-order Graph Convolutional Network for Pedestrian Trajectory Prediction[J]. IEEE Internet of Things Journal, 2025. [paper](https://ieeexplore.ieee.org/abstract/document/10948459) [code](https://github.com/Chenwangxing/PCHGCN-Master)
 
 
 
